@@ -15,7 +15,6 @@ If you're unfamiliar with RAG (Retrieval-Augmented Generation), don't worry—we
 
 RAG, short for Retrieval Augmented Generation, works by integrating retrieval-based techniques with generative-based AI models. Retrieval-based models excel at extracting information from pre-existing online sources like newspaper articles, databases, blogs, and other knowledge repositories such as Wikipedia or even internal databases. However, such models cannot produce original or unique responses. Alternatively, generative models can generate original responses that are appropriate within the context of what is being asked, but can find it difficult to maintain strict accuracy. To overcome these relative weaknesses in existing models, RAG was developed to combine their respective strengths and minimize their drawbacks. In a RAG-based AI system, a retrieval model is used to find relevant information from existing information sources while the generative model takes the retrieved information, synthesizes all the data, and shapes it into a coherent and contextually appropriate response.
 
-
 ## 2. What are the benefits of RAG?
 By integrating retrieval and generative artificial intelligence (AI) models, RAG delivers responses that are more accurate, relevant, and original while also sounding like they came from humans. That’s because RAG models can understand the context of queries and generate fresh and unique replies by combining the best of both models. By doing this, RAG models are:
 
@@ -53,6 +52,8 @@ RAG can help employees create and share a centralized repository of expert knowl
 ## 4. Type of RAGs
 
 ### 4.1. Simple RAG
+
+![RAG](./images/rag-1.png)
 
 It has inherent Limitations.
 #### i. Limitation 1:
@@ -95,10 +96,15 @@ User Query: What are the top 3 tech companies in terms of revenue growth, and ho
 Now to overcome some of these limitations, we can use a Flexible RAG, 
 #### i. For multi-part questions use _Parallel Queries_:
 User Query: What's the number of employees of Nvidia, Microsoft and Google?
+![RAG](./images/rag-3.png)
+
 
 #### ii. For Complex data types, use _RAG with Tools_:
+![RAG](./images/rag-4-with%20tools.png)
+
 User Query 1: From the given table, what is the average sales volume for our top 3 products?
 User Query 2: How did our customer churn rate change in the last 3 months?
+
 
 Instead of always retrieving from a vector db, allow the model to retrieve from any tool.
 
@@ -110,13 +116,16 @@ Instead of always retrieving from a vector db, allow the model to retrieve from 
 For Sequential Reasoning, use _Agentic RAG_, now let's explore what Agentic RAG is in more details.
 
 ### 4.2. Agentic RAG
+Agentic RAG refers to a Retrieval-Augmented Generation (RAG) system enhanced with tools that not only generate responses but also transparently display the steps involved in the generation process.
 
+Agentic RAG  =  _RAG with Tools_ + **PLAN**
 
+![RAG](./images/rag-2.png)
 Example User Query:
 What are the top 3 tech companies in terms of revenue growth, and how many employees do they each have?
+![RAG](./images/rag-5.png)
 
 #### 4.2 Use Case
-
 For use cases that require sequential reasoning, or answering complex questions, let the model:
 
 - plan ahead of time
