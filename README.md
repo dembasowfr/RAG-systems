@@ -1,6 +1,6 @@
 
 # RAG - RETRIEVIAL AUGMENTED GENERATION
-![RAG](./images/RAG.png.webpRAG.png.webp)
+![RAG](./images/RAG.png.webp)
 
 This project is an excerpt from a seminar conducted by Ayush Thakur, a prominent Machine Learning Engineer at Weights & Biases, and Maxim Voisin, a Senior Product Manager at Cohere. 
 
