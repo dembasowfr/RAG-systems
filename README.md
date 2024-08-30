@@ -11,7 +11,7 @@ If you're unfamiliar with RAG (Retrieval-Augmented Generation), don't worry—we
 **The project is composed of two parts.**
 
 <details>
-  <summary>## Table of Contents</summary>
+  <summary><h1>Table of Contents</h1></summary>
 
 1. [Introduction](#introduction)
    - [Project Overview](#project-overview)
