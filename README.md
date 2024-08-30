@@ -66,4 +66,7 @@ RAG can help employees create and share a centralized repository of expert knowl
 
 ## References:
 
-!()
+![Cohere](www.cohere.com)
+![Weights & Biases](www.wandb.com)
+![Cohesity](www.cohesity.com)
+![Kaggle for the dataset](www.kaggle.com)
