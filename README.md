@@ -1,8 +1,8 @@
 
-# RAG - Retrivial Augmented Generation
+# RAG - RETRIEVIAL AUGMENTED GENERATION
+![RAG](RAG.png.webp)
 
-
-This course is an excerpt from a seminar conducted by Ayush Thakur, a prominent Machine Learning Engineer at Weights & Biases, and Maxim Voisin, a Senior Product Manager at Cohere. 
+This project is an excerpt from a seminar conducted by Ayush Thakur, a prominent Machine Learning Engineer at Weights & Biases, and Maxim Voisin, a Senior Product Manager at Cohere. 
 
 They present a trailer for their upcoming full course titled **"RAG++: Taking Your RAG Beyond Proof of Concept (POC)"**, in collaboration with Weaviate. 
 
@@ -151,3 +151,4 @@ Let's see Agentic RAG on a research and analysis tasks.
 2. [Weights & Biases](www.wandb.com)
 3. [Cohesity](www.cohesity.com)
 4. [Kaggle for the dataset](www.kaggle.com)
+5. [Hyro AI](https://www.hyro.ai/blog/retrieval-augmented-generation-rag-conversational-ai/)
