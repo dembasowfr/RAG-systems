@@ -10,6 +10,43 @@ If you're unfamiliar with RAG (Retrieval-Augmented Generation), don't worry—we
 
 **The project is composed of 2 parts**
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+   - [Project Overview](#project-overview)
+   - [Upcoming Full Course](#upcoming-full-course)
+   - [Familiarity with RAG](#familiarity-with-rag)
+   - [Project Composition](#project-composition)
+
+2. [Part 1: Flexible RAG: Development and Evaluation Strategies](#part-1-flexible-rag-development-and-evaluation-strategies)
+   - 1. [What is RAG?](#what-is-rag)
+   - 2. [Benefits of RAG](#benefits-of-rag)
+     - 2.1 [More Accurate](#more-accurate)
+     - 2.2 [Better at Synthesizing Information](#better-at-synthesizing-information)
+     - 2.3 [Adept at Putting Information into Context](#adept-at-putting-information-into-context)
+     - 2.4 [Easier to Train](#easier-to-train)
+     - 2.5 [More Efficient](#more-efficient)
+   - 3. [How is RAG Being Used Today?](#how-is-rag-being-used-today)
+     - 3.1 [Improve Customer Support](#improve-customer-support)
+     - 3.2 [Generate Content](#generate-content)
+     - 3.3 [Perform Market Research](#perform-market-research)
+     - 3.4 [Support Sales](#support-sales)
+     - 3.5 [Improve Employee Experience](#improve-employee-experience)
+
+3. [Types of RAGs](#types-of-rags)
+   - 4.1 [Simple RAG](#simple-rag)
+     - i. [Limitation 1: Limited Chunk-Based Understanding](#limitation-1-limited-chunk-based-understanding)
+     - ii. [Limitation 2: Difficulty Comparing Information from Multiple Documents](#limitation-2-difficulty-comparing-information-from-multiple-documents)
+     - iii. [Limitation 3: Analyzing Complex Data](#limitation-3-analyzing-complex-data)
+     - iv. [Limitation 4: Struggles with Complex Questions](#limitation-4-struggles-with-complex-questions)
+   - 4.2 [Agentic RAG](#agentic-rag)
+     - [Agentic RAG Definition](#agentic-rag-definition)
+     - [Agentic RAG Use Case](#agentic-rag-use-case)
+     - [Demo: Putting It All Together](#demo-putting-it-all-together)
+
+4. [Part 2: RAG with Use of Cohere and Weaviate](#part-2-rag-with-use-of-cohere-and-weaviate)
+
+5. [References](#references)
 # **PART 1: Flexible RAG: Development and Evaluation Strategies**
 ## 1. What is RAG?
 

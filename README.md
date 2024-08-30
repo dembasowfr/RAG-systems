@@ -10,7 +10,8 @@ If you're unfamiliar with RAG (Retrieval-Augmented Generation), don't worry—we
 
 **The project is composed of two parts.**
 
-## Table of Contents
+<details>
+  <summary>## Table of Contents</summary>
 
 1. [Introduction](#introduction)
    - [Project Overview](#project-overview)
@@ -47,6 +48,9 @@ If you're unfamiliar with RAG (Retrieval-Augmented Generation), don't worry—we
 4. [Part 2: RAG with Use of Cohere and Weaviate](#part-2-rag-with-use-of-cohere-and-weaviate)
 
 5. [References](#references)
+
+</details>
+
 
 ---
 
