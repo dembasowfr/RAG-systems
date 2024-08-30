@@ -204,7 +204,10 @@ In this section, you'll find a comprehensive demo showcasing Agentic RAG at work
 
 ## Part 2: RAG with Use of Cohere and Weaviate
 
-In this part of the project, we'll delve into how you can build a RAG system using Cohere and Weaviate. We'll walk through the steps of integrating these tools, building your own retrieval-augmented generation system, and optimizing it for different business use cases.
+In this part of the project, we'll delve into how you can build a RAG system using Cohere with Integration of Waive a lightweight toolkit for tracking and evaluating LLM applications, built by Weights & Biases. We'll walk through the steps of integrating these tools, building your own retrieval-augmented generation system, and optimizing it for different business use cases.
+
+
+
 
 ---
 
