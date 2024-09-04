@@ -225,8 +225,8 @@ Weave is a lightweight toolkit for tracking and evaluating LLM applications, bui
 ![WEAVE](./images/weave-capabilities.png)
 
 ## 2. Benefits of Using Weave in Model Developments
+![Benefits of Weave](./images/weave-vs-traditional-ai-model-building.png)
 
-![Benefits of Weave](./images/llm-vs-model.png)
 ### 2.1. More Accurate
 Weave-based systems can better integrate real-world knowledge, improving model predictions.
 
@@ -244,9 +244,11 @@ Weave’s design allows for the streamlined development of AI models, improving 
 
 ## 3. Comparison between Weave LLM and Traditional Model Development
 
-![Weave vs. Model Development](./images/weave-vs-traditional-ai-model-building.png)
 
 Weave introduces various improvements over traditional model development methods, particularly in applications that require real-time information retrieval.
+
+![Weave vs. Model Development](./images/llm-vs-model.png)
+
 
 ### 3.1. Improve Customer Support
 Weave-powered systems can more efficiently resolve customer queries by retrieving relevant information in real-time.
@@ -263,7 +265,6 @@ Weave can support sales by dynamically retrieving information about products, cu
 ### 3.5. Improve Employee Experience
 Weave systems can help enhance employee experience by providing relevant and timely information, aiding decision-making processes.
 
-![RAG](./images/rag-5.png)
 
 
 
