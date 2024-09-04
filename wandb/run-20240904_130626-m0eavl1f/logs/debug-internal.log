@@ -1,0 +1,9 @@
+{"time":"2024-09-04T13:06:26.3350818+03:00","level":"INFO","msg":"using version","core version":"0.17.8"}
+{"time":"2024-09-04T13:06:26.3350818+03:00","level":"INFO","msg":"created symlink","path":"b:\\projects\\Bootcamps\\cohere weights and biases\\build-advanced-RAG-systems\\wandb\\run-20240904_130626-m0eavl1f\\logs\\debug-core.log"}
+{"time":"2024-09-04T13:06:26.3356118+03:00","level":"INFO","msg":"using version","core version":"0.17.8"}
+{"time":"2024-09-04T13:06:26.3356118+03:00","level":"INFO","msg":"created symlink","path":"b:\\projects\\Bootcamps\\cohere weights and biases\\build-advanced-RAG-systems\\wandb\\run-20240904_130626-m0eavl1f\\logs\\debug-core.log"}
+{"time":"2024-09-04T13:06:26.3412453+03:00","level":"INFO","msg":"created new stream","id":"m0eavl1f"}
+{"time":"2024-09-04T13:06:26.3418153+03:00","level":"INFO","msg":"stream: started","id":"m0eavl1f"}
+{"time":"2024-09-04T13:06:26.3418153+03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"m0eavl1f"}}
+{"time":"2024-09-04T13:06:26.3418153+03:00","level":"INFO","msg":"sender: started","stream_id":{"value":"m0eavl1f"}}
+{"time":"2024-09-04T13:06:26.3418153+03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"m0eavl1f"}}

@@ -1,0 +1,106 @@
+2024-09-04 13:11:34,417 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Current SDK version is 0.17.8
+2024-09-04 13:11:34,417 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Configure stats pid to 7784
+2024-09-04 13:11:34,417 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Loading settings from C:\Users\almud\.config\wandb\settings
+2024-09-04 13:11:34,417 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Loading settings from b:\projects\Bootcamps\cohere weights and biases\build-advanced-RAG-systems\wandb\settings
+2024-09-04 13:11:34,417 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Loading settings from environment variables: {'api_key': '***REDACTED***', '_require_core': 'true'}
+2024-09-04 13:11:34,418 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-09-04 13:11:34,418 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-04 13:11:34,419 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-04 13:11:34,419 INFO    MainThread:7784 [wandb_init.py:_log_setup():524] Logging user logs to b:\projects\Bootcamps\cohere weights and biases\build-advanced-RAG-systems\wandb\run-20240904_131134-jazo6fsx\logs\debug.log
+2024-09-04 13:11:34,419 INFO    MainThread:7784 [wandb_init.py:_log_setup():525] Logging internal logs to b:\projects\Bootcamps\cohere weights and biases\build-advanced-RAG-systems\wandb\run-20240904_131134-jazo6fsx\logs\debug-internal.log
+2024-09-04 13:11:34,419 INFO    MainThread:7784 [wandb_init.py:init():607] calling init triggers
+2024-09-04 13:11:34,419 INFO    MainThread:7784 [wandb_init.py:init():614] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.02, 'architecture': 'CNN', 'dataset': 'CIFAR-100', 'epochs': 10}
+2024-09-04 13:11:34,420 INFO    MainThread:7784 [wandb_init.py:init():657] starting backend
+2024-09-04 13:11:34,420 INFO    MainThread:7784 [wandb_init.py:init():661] setting up manager
+2024-09-04 13:11:34,424 INFO    MainThread:7784 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn, using: spawn
+2024-09-04 13:11:34,426 INFO    MainThread:7784 [wandb_init.py:init():669] backend started and connected
+2024-09-04 13:11:34,430 INFO    MainThread:7784 [wandb_run.py:_label_probe_notebook():1344] probe notebook
+2024-09-04 13:11:34,430 INFO    MainThread:7784 [wandb_run.py:_label_probe_notebook():1354] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-09-04 13:11:34,430 INFO    MainThread:7784 [wandb_init.py:init():767] updated telemetry
+2024-09-04 13:11:34,470 INFO    MainThread:7784 [wandb_init.py:init():800] communicating run to backend with 90.0 second timeout
+2024-09-04 13:11:35,140 INFO    MainThread:7784 [wandb_init.py:init():851] starting run threads in backend
+2024-09-04 13:12:05,664 INFO    MainThread:7784 [wandb_run.py:_console_start():2463] atexit reg
+2024-09-04 13:12:05,664 INFO    MainThread:7784 [wandb_run.py:_redirect():2309] redirect: wrap_raw
+2024-09-04 13:12:05,664 INFO    MainThread:7784 [wandb_run.py:_redirect():2374] Wrapping output streams.
+2024-09-04 13:12:05,664 INFO    MainThread:7784 [wandb_run.py:_redirect():2399] Redirects installed.
+2024-09-04 13:12:05,665 WARNING MsgRouterThr:7784 [router.py:message_loop():77] message_loop has been closed
+2024-09-04 13:12:05,666 INFO    MainThread:7784 [wandb_init.py:init():894] run started, returning control to user process
+2024-09-04 13:12:05,667 INFO    MainThread:7784 [wandb_run.py:_finish():2160] finishing run dastech1998-ozyegin-university/wandb-basic-intro/jazo6fsx
+2024-09-04 13:12:05,667 INFO    MainThread:7784 [wandb_run.py:_atexit_cleanup():2424] got exitcode: 0
+2024-09-04 13:12:05,667 INFO    MainThread:7784 [wandb_run.py:_restore():2406] restore
+2024-09-04 13:12:05,668 INFO    MainThread:7784 [wandb_run.py:_restore():2412] restore done
+2024-09-04 13:12:05,668 INFO    MainThread:7784 [wandb_run.py:_on_finish():2677] communicating current version
+2024-09-04 13:12:06,362 INFO    MainThread:7784 [wandb_run.py:_on_finish():2686] got version response 
+2024-09-04 13:23:31,781 INFO    MainThread:7784 [wandb_settings.py:_apply_login():1960] Applying login settings: {}
+2024-09-04 13:23:31,791 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Current SDK version is 0.17.8
+2024-09-04 13:23:31,791 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Configure stats pid to 7784
+2024-09-04 13:23:31,791 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Loading settings from C:\Users\almud\.config\wandb\settings
+2024-09-04 13:23:31,792 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Loading settings from b:\projects\Bootcamps\cohere weights and biases\build-advanced-RAG-systems\wandb\settings
+2024-09-04 13:23:31,792 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Loading settings from environment variables: {'api_key': '***REDACTED***', '_require_core': 'true'}
+2024-09-04 13:23:31,792 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-09-04 13:23:31,793 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-04 13:23:31,793 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-04 13:23:31,794 INFO    MainThread:7784 [wandb_init.py:_log_setup():524] Logging user logs to b:\projects\Bootcamps\cohere weights and biases\build-advanced-RAG-systems\wandb\run-20240904_132331-tart5nrb\logs\debug.log
+2024-09-04 13:23:31,794 INFO    MainThread:7784 [wandb_init.py:_log_setup():525] Logging internal logs to b:\projects\Bootcamps\cohere weights and biases\build-advanced-RAG-systems\wandb\run-20240904_132331-tart5nrb\logs\debug-internal.log
+2024-09-04 13:23:31,794 INFO    MainThread:7784 [wandb_init.py:init():607] calling init triggers
+2024-09-04 13:23:31,795 INFO    MainThread:7784 [wandb_init.py:init():614] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.02, 'architecture': 'CNN', 'dataset': 'CIFAR-100', 'epochs': 10}
+2024-09-04 13:23:31,795 INFO    MainThread:7784 [wandb_init.py:init():657] starting backend
+2024-09-04 13:23:31,795 INFO    MainThread:7784 [wandb_init.py:init():661] setting up manager
+2024-09-04 13:23:31,799 INFO    MainThread:7784 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn, using: spawn
+2024-09-04 13:23:31,811 INFO    MainThread:7784 [wandb_init.py:init():669] backend started and connected
+2024-09-04 13:23:31,817 INFO    MainThread:7784 [wandb_run.py:_label_probe_notebook():1344] probe notebook
+2024-09-04 13:23:31,817 INFO    MainThread:7784 [wandb_run.py:_label_probe_notebook():1354] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-09-04 13:23:31,818 INFO    MainThread:7784 [wandb_init.py:init():767] updated telemetry
+2024-09-04 13:23:31,871 INFO    MainThread:7784 [wandb_init.py:init():800] communicating run to backend with 90.0 second timeout
+2024-09-04 13:24:33,466 WARNING MainThread:7784 [wandb_init.py:init():1232] interrupted
+Traceback (most recent call last):
+  File "c:\Users\almud\AppData\Local\Programs\Python\Python310\lib\site-packages\wandb\sdk\wandb_init.py", line 1228, in init
+    return wi.init()
+  File "c:\Users\almud\AppData\Local\Programs\Python\Python310\lib\site-packages\wandb\sdk\wandb_init.py", line 803, in init
+    result = run_init_handle.wait(
+  File "c:\Users\almud\AppData\Local\Programs\Python\Python310\lib\site-packages\wandb\sdk\lib\mailbox.py", line 283, in wait
+    found, abandoned = self._slot._get_and_clear(timeout=wait_timeout)
+  File "c:\Users\almud\AppData\Local\Programs\Python\Python310\lib\site-packages\wandb\sdk\lib\mailbox.py", line 130, in _get_and_clear
+    if self._wait(timeout=timeout):
+  File "c:\Users\almud\AppData\Local\Programs\Python\Python310\lib\site-packages\wandb\sdk\lib\mailbox.py", line 126, in _wait
+    return self._event.wait(timeout=timeout)
+  File "c:\Users\almud\AppData\Local\Programs\Python\Python310\lib\threading.py", line 607, in wait
+    signaled = self._cond.wait(timeout)
+  File "c:\Users\almud\AppData\Local\Programs\Python\Python310\lib\threading.py", line 324, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+2024-09-04 13:25:46,829 INFO    MainThread:7784 [wandb_settings.py:_apply_login():1960] Applying login settings: {}
+2024-09-04 13:25:51,032 INFO    MainThread:7784 [wandb_settings.py:_apply_login():1960] Applying login settings: {}
+2024-09-04 13:25:51,040 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Current SDK version is 0.17.8
+2024-09-04 13:25:51,040 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Configure stats pid to 7784
+2024-09-04 13:25:51,041 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Loading settings from C:\Users\almud\.config\wandb\settings
+2024-09-04 13:25:51,041 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Loading settings from b:\projects\Bootcamps\cohere weights and biases\build-advanced-RAG-systems\wandb\settings
+2024-09-04 13:25:51,041 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Loading settings from environment variables: {'api_key': '***REDACTED***', '_require_core': 'true'}
+2024-09-04 13:25:51,041 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-09-04 13:25:51,041 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-04 13:25:51,042 INFO    MainThread:7784 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-04 13:25:51,042 INFO    MainThread:7784 [wandb_init.py:_log_setup():524] Logging user logs to b:\projects\Bootcamps\cohere weights and biases\build-advanced-RAG-systems\wandb\run-20240904_132551-l6ec5h7n\logs\debug.log
+2024-09-04 13:25:51,042 INFO    MainThread:7784 [wandb_init.py:_log_setup():525] Logging internal logs to b:\projects\Bootcamps\cohere weights and biases\build-advanced-RAG-systems\wandb\run-20240904_132551-l6ec5h7n\logs\debug-internal.log
+2024-09-04 13:25:51,042 INFO    MainThread:7784 [wandb_init.py:init():607] calling init triggers
+2024-09-04 13:25:51,043 INFO    MainThread:7784 [wandb_init.py:init():614] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.02, 'architecture': 'CNN', 'dataset': 'CIFAR-100', 'epochs': 10}
+2024-09-04 13:25:51,043 INFO    MainThread:7784 [wandb_init.py:init():657] starting backend
+2024-09-04 13:25:51,043 INFO    MainThread:7784 [wandb_init.py:init():661] setting up manager
+2024-09-04 13:25:51,045 INFO    MainThread:7784 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn, using: spawn
+2024-09-04 13:25:51,046 INFO    MainThread:7784 [wandb_init.py:init():669] backend started and connected
+2024-09-04 13:25:51,052 INFO    MainThread:7784 [wandb_run.py:_label_probe_notebook():1344] probe notebook
+2024-09-04 13:25:51,052 INFO    MainThread:7784 [wandb_run.py:_label_probe_notebook():1354] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-09-04 13:25:51,053 INFO    MainThread:7784 [wandb_init.py:init():767] updated telemetry
+2024-09-04 13:25:51,094 INFO    MainThread:7784 [wandb_init.py:init():800] communicating run to backend with 90.0 second timeout
+2024-09-04 13:27:21,884 ERROR   MainThread:7784 [wandb_init.py:init():826] encountered error: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-09-04 13:27:21,885 ERROR   MainThread:7784 [wandb_init.py:init():1238] error in wandb.init()
+Traceback (most recent call last):
+  File "c:\Users\almud\AppData\Local\Programs\Python\Python310\lib\site-packages\wandb\sdk\wandb_init.py", line 1228, in init
+    return wi.init()
+  File "c:\Users\almud\AppData\Local\Programs\Python\Python310\lib\site-packages\wandb\sdk\wandb_init.py", line 832, in init
+    raise error
+wandb.errors.CommError: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-

@@ -1,0 +1,21 @@
+{"time":"2024-09-03T17:56:12.1474862+03:00","level":"INFO","msg":"using version","core version":"0.17.8"}
+{"time":"2024-09-03T17:56:12.1474862+03:00","level":"INFO","msg":"created symlink","path":"b:\\projects\\Bootcamps\\cohere weights and biases\\build-advanced-RAG-systems\\wandb\\run-20240903_175612-3xkgn3ix\\logs\\debug-core.log"}
+{"time":"2024-09-03T17:56:12.1485457+03:00","level":"INFO","msg":"using version","core version":"0.17.8"}
+{"time":"2024-09-03T17:56:12.1485457+03:00","level":"INFO","msg":"created symlink","path":"b:\\projects\\Bootcamps\\cohere weights and biases\\build-advanced-RAG-systems\\wandb\\run-20240903_175612-3xkgn3ix\\logs\\debug-core.log"}
+{"time":"2024-09-03T17:56:12.1540254+03:00","level":"INFO","msg":"created new stream","id":"3xkgn3ix"}
+{"time":"2024-09-03T17:56:12.1551157+03:00","level":"INFO","msg":"stream: started","id":"3xkgn3ix"}
+{"time":"2024-09-03T17:56:12.1551157+03:00","level":"INFO","msg":"sender: started","stream_id":{"value":"3xkgn3ix"}}
+{"time":"2024-09-03T17:56:12.1551157+03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"3xkgn3ix"}}
+{"time":"2024-09-03T17:56:12.1551157+03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"3xkgn3ix"}}
+{"time":"2024-09-03T17:56:13.6065047+03:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-03T17:56:13.6071358+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-03T17:56:44.0578577+03:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-03T17:56:46.7695092+03:00","level":"INFO","msg":"sender: getServerInfo: got server info","serverInfo":{"cliVersionInfo":{"max_cli_version":"0.17.5","min_cli_version":"0.8.20"},"latestLocalVersionInfo":null}}
+{"time":"2024-09-03T17:56:46.770379+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-03T17:56:46.7704472+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-03T17:56:46.9424356+03:00","level":"ERROR","msg":"sender: sendDefer: failed to build job artifact","error":"CreateFile b:\\projects\\Bootcamps\\cohere weights and biases\\build-advanced-RAG-systems\\<python with no main file>: The filename, directory name, or volume label syntax is incorrect."}
+{"time":"2024-09-03T17:56:48.6968069+03:00","level":"INFO","msg":"stream: closing","id":"3xkgn3ix"}
+{"time":"2024-09-03T17:56:48.6968069+03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"3xkgn3ix"}}
+{"time":"2024-09-03T17:56:48.6968069+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"3xkgn3ix"}}
+{"time":"2024-09-03T17:56:48.6968069+03:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"3xkgn3ix"}}
+{"time":"2024-09-03T17:56:48.6968069+03:00","level":"INFO","msg":"stream: closed","id":"3xkgn3ix"}
