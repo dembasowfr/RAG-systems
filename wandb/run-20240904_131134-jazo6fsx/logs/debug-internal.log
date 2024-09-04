@@ -1,0 +1,14 @@
+wandb-basic-intro{"time":"2024-09-04T13:11:34.7960499+03:00","level":"INFO","msg":"using version","core version":"0.17.8"}
+{"time":"2024-09-04T13:11:34.7961706+03:00","level":"INFO","msg":"created symlink","path":"b:\\projects\\Bootcamps\\cohere weights and biases\\build-advanced-RAG-systems\\wandb\\run-20240904_131134-jazo6fsx\\logs\\debug-core.log"}
+{"time":"2024-09-04T13:11:34.7969078+03:00","level":"INFO","msg":"using version","core version":"0.17.8"}
+{"time":"2024-09-04T13:11:34.7969078+03:00","level":"INFO","msg":"created symlink","path":"b:\\projects\\Bootcamps\\cohere weights and biases\\build-advanced-RAG-systems\\wandb\\run-20240904_131134-jazo6fsx\\logs\\debug-core.log"}
+{"time":"2024-09-04T13:11:34.8008985+03:00","level":"INFO","msg":"created new stream","id":"jazo6fsx"}
+{"time":"2024-09-04T13:11:34.8008985+03:00","level":"INFO","msg":"stream: started","id":"jazo6fsx"}
+{"time":"2024-09-04T13:11:34.8008985+03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"jazo6fsx"}}
+{"time":"2024-09-04T13:11:34.8008985+03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"jazo6fsx"}}
+{"time":"2024-09-04T13:11:34.8008985+03:00","level":"INFO","msg":"sender: started","stream_id":{"value":"jazo6fsx"}}
+{"time":"2024-09-04T13:11:35.1448329+03:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-04T13:11:35.1459497+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-04T13:12:06.5422679+03:00","level":"INFO","msg":"sender: getServerInfo: got server info","serverInfo":{"cliVersionInfo":{"max_cli_version":"0.17.5","min_cli_version":"0.8.20"},"latestLocalVersionInfo":null}}
+{"time":"2024-09-04T13:21:37.377982+03:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/dastech1998-ozyegin-university/wandb-basic-intro/jazo6fsx/file_stream"}
+{"time":"2024-09-04T13:21:37.377982+03:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/dastech1998-ozyegin-university/wandb-basic-intro/jazo6fsx/file_stream: {\"error\":\"run wandb-basic-intro/jazo6fsx not found while streaming file\"}"}
