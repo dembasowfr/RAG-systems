@@ -1,0 +1,14 @@
+{"time":"2024-09-04T13:01:59.8750239+03:00","level":"INFO","msg":"using version","core version":"0.17.8"}
+{"time":"2024-09-04T13:01:59.8750239+03:00","level":"INFO","msg":"created symlink","path":"b:\\projects\\Bootcamps\\cohere weights and biases\\build-advanced-RAG-systems\\wandb\\run-20240904_130159-jhj9ucg2\\logs\\debug-core.log"}
+{"time":"2024-09-04T13:01:59.8755283+03:00","level":"INFO","msg":"using version","core version":"0.17.8"}
+{"time":"2024-09-04T13:01:59.8755283+03:00","level":"INFO","msg":"created symlink","path":"b:\\projects\\Bootcamps\\cohere weights and biases\\build-advanced-RAG-systems\\wandb\\run-20240904_130159-jhj9ucg2\\logs\\debug-core.log"}
+{"time":"2024-09-04T13:01:59.8825021+03:00","level":"INFO","msg":"created new stream","id":"jhj9ucg2"}
+{"time":"2024-09-04T13:01:59.9867731+03:00","level":"INFO","msg":"stream: started","id":"jhj9ucg2"}
+{"time":"2024-09-04T13:01:59.9874415+03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"jhj9ucg2"}}
+{"time":"2024-09-04T13:01:59.9874415+03:00","level":"INFO","msg":"sender: started","stream_id":{"value":"jhj9ucg2"}}
+{"time":"2024-09-04T13:01:59.9874415+03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"jhj9ucg2"}}
+{"time":"2024-09-04T13:01:59.9919331+03:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-04T13:02:02.3830808+03:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-04T13:02:06.5407289+03:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-04T13:02:14.963391+03:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-04T13:02:31.1556525+03:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}

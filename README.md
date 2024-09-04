@@ -46,7 +46,19 @@ If you're unfamiliar with RAG (Retrieval-Augmented Generation), don't worry—we
      - [Demo: Putting It All Together](#demo-putting-it-all-together)
 
 4. [Part 2: RAG with Use of Cohere and Weaviate](#part-2-rag-with-use-of-cohere-and-weaviate)
-
+  - 1. [What is Weave?](#what-is-rag)
+  - 2. [Benefits of Using Weave in Model Developments](#benefits-of-rag)
+    - 2.1 [More Accurate](#more-accurate)
+    - 2.2 [Better at Synthesizing Information](#better-at-synthesizing-information)
+    - 2.3 [Adept at Putting Information into Context](#adept-at-putting-information-into-context)
+    - 2.4 [Easier to Train](#easier-to-train)
+    - 2.5 [More Efficient](#more-efficient)
+  - 3. [Comparision between Weave LLM and Traditional Model Development](#how-is-rag-being-used-today)
+    - 3.1 [Improve Customer Support](#improve-customer-support)
+    - 3.2 [Generate Content](#generate-content)
+    - 3.3 [Perform Market Research](#perform-market-research)
+    - 3.4 [Support Sales](#support-sales)
+    - 3.5 [Improve Employee Experience](#improve-employee-experience)
 5. [References](#references)
 
 </details>
@@ -204,8 +216,54 @@ In this section, you'll find a comprehensive demo showcasing Agentic RAG at work
 
 ## Part 2: RAG with Use of Cohere and Weaviate
 
-In this part of the project, we'll delve into how you can build a RAG system using Cohere with Integration of Waive a lightweight toolkit for tracking and evaluating LLM applications, built by Weights & Biases. We'll walk through the steps of integrating these tools, building your own retrieval-augmented generation system, and optimizing it for different business use cases.
+In this part of the project, we'll delve into how you can build a RAG system using Cohere with Integration of Waive. We'll walk through the steps of integrating these tools, building your own retrieval-augmented generation system, and optimizing it for different business use cases.
 
+## 1. What is Weave?
+
+Weave is a lightweight toolkit for tracking and evaluating LLM applications, built by Weights & Biases.
+
+![WEAVE](./images/weave-capabilities.png)
+
+## 2. Benefits of Using Weave in Model Developments
+
+![Benefits of Weave](./images/llm-vs-model.png)
+### 2.1. More Accurate
+Weave-based systems can better integrate real-world knowledge, improving model predictions.
+
+### 2.2. Better at Synthesizing Information
+Weave combines various external data streams, making it better at synthesizing and generating accurate results.
+
+### 2.3. Adept at Putting Information into Context
+Weave’s ability to pull context-specific information helps in delivering more relevant results.
+
+### 2.4. Easier to Train
+Weave reduces the training complexity by focusing on retrieval-enhanced learning, minimizing the need for exhaustive dataset training.
+
+### 2.5. More Efficient
+Weave’s design allows for the streamlined development of AI models, improving efficiency at scale.
+
+## 3. Comparison between Weave LLM and Traditional Model Development
+
+![Weave vs. Model Development](./images/weave-vs-traditional-ai-model-building.png)
+
+Weave introduces various improvements over traditional model development methods, particularly in applications that require real-time information retrieval.
+
+### 3.1. Improve Customer Support
+Weave-powered systems can more efficiently resolve customer queries by retrieving relevant information in real-time.
+
+### 3.2. Generate Content
+Weave can assist in content generation by pulling external data that ensures content is context-aware and up-to-date.
+
+### 3.3. Perform Market Research
+By retrieving the latest market trends and data, Weave enhances the ability to perform accurate market analysis.
+
+### 3.4. Support Sales
+Weave can support sales by dynamically retrieving information about products, customer needs, and market trends.
+
+### 3.5. Improve Employee Experience
+Weave systems can help enhance employee experience by providing relevant and timely information, aiding decision-making processes.
+
+![RAG](./images/rag-5.png)
 
 
 
